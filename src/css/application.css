@@ -3,3 +3,12 @@
 @import "font.css";
 @import "icons.css";
 @import "skatedecor.css";
+
+html {
+  height: 100%;
+}
+
+.row {
+  margin-left: 0;
+  margin-right: 0;
+}
